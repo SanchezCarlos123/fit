@@ -1,0 +1,17 @@
+{
+    "name": "Tabla",
+    "short_name": "Tabla de multiplicar",
+    "theme_color": "#2196f3",
+    "background_color": "#2196f3",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "./",
+    "start_url": "./",
+    "icons": [
+        {
+            "src": "./prueba3/tablas/image_icono.png",
+            "type": "prueba3.tablas.png",
+            "sizes": "200x200"
+        }
+    ]
+}
